@@ -6,4 +6,5 @@ This repository will be filled with notes from the various readings that are don
 
 ## Table of Contents
 
-- [Exception Handling & Debugging](./readings/reading-01.md)
+- [Java Basics](./readings/reading-01.md)
+- [Arrays, Loops, & Imports](./readings/reading-02.md)
