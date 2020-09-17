@@ -9,3 +9,4 @@ This repository will be filled with notes from the various readings that are don
 - [Java Basics](./readings/reading-01.md)
 - [Loops and Imports](./readings/reading-02.md)
 - [Maps, Primitives, and File I/O](./readings/reading-03.md)
+- [OOP and Numbers](./readings/reading-04.md)
