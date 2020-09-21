@@ -3,11 +3,11 @@
 ## OOP Concepts
 Object: An object is a piece of code that has a grouping of properties and behaviors, similar to the way real life objects can have properties to describe them and actions they can perform.
 <br>
-Class: A class acts as the blueprint from which objects are created, or instatiated, from.
+Class: A class acts as the blueprint from which objects are created, or instantiated, from.
 <br>
-Inheritance: Objects can inherit from other objectss. This allows object types to be structurally organized where properties and behaviors are passed down from parent to child.
+Inheritance: Objects can inherit from other objects. This allows object types to be structurally organized where properties and behaviors are passed down from parent to child.
 <br>
-Interface: Similar to inhereitance, an object can implement an interface and therefore has to have all the properties and behaviors that are inside of the interface.
+Interface: Similar to inheritance, an object can implement an interface and therefore has to have all the properties and behaviors that are inside of the interface.
 <br>
 Package: A package is a namespace for organizing classes and interfaces. This is essentially part of the file structure that allows for easy organization.
 <br>
