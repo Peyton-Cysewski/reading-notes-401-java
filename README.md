@@ -12,3 +12,4 @@ This repository will be filled with notes from the various readings that are don
 - [OOP and Numbers](./readings/reading-04.md)
 - [Inheritance and Interfaces](./readings/reading-05.md)
 - [SOLID Principles](./readings/reading-06.md)
+- [WRRC and Java](./readings/reading-07.md)
