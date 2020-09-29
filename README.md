@@ -14,3 +14,4 @@ This repository will be filled with notes from the various readings that are don
 - [SOLID Principles](./readings/reading-06.md)
 - [WRRC and Java](./readings/reading-07.md)
 - [Spring](./readings/reading-08.md)
+- [Spring RESTful Routing & Static Files](./readings/reading-09.md)
