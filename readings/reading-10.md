@@ -2,7 +2,7 @@
 
 ## Data Entity Relationships
 - 1 to 1: With this type of relationship, use the `@OneToOne` annotation. The association needs to be "owned" by one side of the relationship. The other side then needs to also have an `@JoinColumn` annotation.
-- 1 to many: Because one side owns the relationship,`@OneToMany` and `@ManyToOne` need to be used in th appropriate spots. The many to 1 side also needs the `@JoinColumn` annotation.
+- 1 to many: Because one side owns the relationship, `@OneToMany` and `@ManyToOne` need to be used in the appropriate spots. The many to 1 side also needs the `@JoinColumn` annotation.
 - many to many: Use the `@ManyToMany` annotation
 
 ## Integration Testing
