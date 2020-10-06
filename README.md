@@ -17,3 +17,4 @@ This repository will be filled with notes from the various readings that are don
 - [Spring RESTful Routing & Static Files](./readings/reading-09.md)
 - [Related Resources and Integration Testing](./readings/reading-10.md)
 - [Spring Authentication](./readings/reading-11.md)
+- [Spring Authorization](./readings/reading-12.md)
