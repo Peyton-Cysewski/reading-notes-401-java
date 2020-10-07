@@ -18,3 +18,4 @@ This repository will be filled with notes from the various readings that are don
 - [Related Resources and Integration Testing](./readings/reading-10.md)
 - [Spring Authentication](./readings/reading-11.md)
 - [Spring Authorization](./readings/reading-12.md)
+- [Web App Security](./readings/reading-13.md)
