@@ -21,3 +21,4 @@ This repository will be filled with notes from the various readings that are don
 - [Web App Security](./readings/reading-13.md)
 - [Spring and Sockets](./readings/reading-14.md)
 - [Android Fundamentals](./readings/reading-15.md)
+- [Intents, Activities, and SharedPreferences](./readings/reading-16.md)
