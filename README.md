@@ -22,3 +22,5 @@ This repository will be filled with notes from the various readings that are don
 - [Spring and Sockets](./readings/reading-14.md)
 - [Android Fundamentals](./readings/reading-15.md)
 - [Intents, Activities, and SharedPreferences](./readings/reading-16.md)
+- [Room](./readings/reading-18.md)
+- [Espresso](./readings/reading-19.md)
