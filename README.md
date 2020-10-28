@@ -25,3 +25,4 @@ This repository will be filled with notes from the various readings that are don
 - [Room](./readings/reading-18.md)
 - [Espresso](./readings/reading-19.md)
 - [Serverless and Amplify](./readings/reading-20.md)
+- [GraphQL @connection](./readings/reading-21.md)
